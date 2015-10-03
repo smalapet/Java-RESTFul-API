@@ -7,6 +7,6 @@ Java based RESTFul demo project
 
 -MySQL
 
--Deployed on Apache Tomcat 7.0.61
+-Deployed on Apache Tomcat 7.0.61 on Linux machine
 
 Copyrights 2015 Sivarat Malapet all rights reserved.
