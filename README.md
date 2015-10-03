@@ -5,4 +5,6 @@ Java based RESTFul demo project
 
 -JPA
 
+-MySQL
+
 Copyrights 2015 Sivarat Malapet all rights reserved.
