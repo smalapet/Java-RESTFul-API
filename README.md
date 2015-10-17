@@ -9,4 +9,4 @@ Java based RESTFul demo project
 
 -Deployed on Apache Tomcat 7.0.61 on Linux machine
 
-Copyrights 2015 Sivarat Malapet all rights reserved.
+Copyright 2015 Sivarat Malapet all rights reserved.
